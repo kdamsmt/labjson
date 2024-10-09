@@ -1,0 +1,24 @@
+{
+  "Cambodia": {
+    "provinces": [
+      {
+        "name": "Phnom Penh",
+        "cities": [
+          {
+            "name": "Phnom Penh",
+            "districts": ["Chamkarmon", "Toul Kork", "Russey Keo"]
+          }
+        ]
+      },
+      {
+        "name": "Siem Reap",
+        "cities": [
+          {
+            "name": "Siem Reap",
+            "districts": ["Krong Siem Reap", "Svay Dangkum", "Sla Kram"]
+          }
+        ]
+      }
+    ]
+  }
+}
